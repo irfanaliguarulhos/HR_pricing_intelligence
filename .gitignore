@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.json
+models/
+mlruns/
+.streamlit/
+
